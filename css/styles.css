@@ -4284,6 +4284,7 @@ fieldset:disabled .btn {
     padding-bottom: 0.3125rem;
     margin-right: 1rem;
     font-size: 1.25rem;
+    line-height: 1.4rem;
     white-space: nowrap;
 }
 .navbar-nav {
