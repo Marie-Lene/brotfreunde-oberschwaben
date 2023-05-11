@@ -153,29 +153,29 @@ h1,
 
 h2,
 .h2 {
-    font-size: calc(1.325rem + 0.9vw);
+    font-size: calc(1.155rem + 0.9vw);
 }
 @media (min-width: 1200px) {
     h2,
     .h2 {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
 }
 
 h3,
 .h3 {
-    font-size: calc(1.3rem + 0.6vw);
+    font-size: calc(1.1rem + 0.6vw);
 }
 @media (min-width: 1200px) {
     h3,
     .h3 {
-        font-size: 1.75rem;
+        font-size: 1.25rem;
     }
 }
 
 h4,
 .h4 {
-    font-size: calc(1.275rem + 0.3vw);
+    font-size: calc(1.075rem + 0.3vw);
 }
 @media (min-width: 1200px) {
     h4,
@@ -11398,7 +11398,7 @@ fieldset:disabled .btn {
     }
 }
 body {
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
 
 hr {
@@ -11661,6 +11661,6 @@ header.masthead .post-heading .meta a {
 }
 @media (min-width: 992px) {
     .post-preview > a > .post-title {
-        font-size: 2.25rem;
+        font-size: 2.05rem;
     }
 }
